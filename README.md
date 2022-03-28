@@ -1,2 +1,2 @@
-# react-rdux
-Created with CodeSandbox
+# mynew
+a repostery to learn
